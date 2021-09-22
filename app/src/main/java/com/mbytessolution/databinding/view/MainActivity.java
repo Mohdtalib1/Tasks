@@ -1,4 +1,4 @@
-package com.mbytessolution.databinding;
+package com.mbytessolution.databinding.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
